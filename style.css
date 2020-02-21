@@ -1,0 +1,81 @@
+body{
+    margin: auto;
+    font-family: 'Poppins', sans-serif ;
+    padding: auto;
+    float: left;
+}
+section{
+    height: auto;
+    padding-bottom: auto;
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+}
+.blue{
+    color: blue;
+}
+p{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    color: rgb(227, 242, 243);
+    background-image: linear-gradient( rgb(132, 186, 204),rgb(53, 53, 156));
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 10px 20px ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img {
+   width: 100%;
+    height: auto;
+}
+.top-area{
+    width: auto;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.biography-area{
+    width: auto;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latest-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.latest-work img{
+    width: 30%;
+    margin-left: 5%; 
+    padding: 1%; 
+}
+.message-box{
+    text-align: center;
+    color: white;
+    background-color: hotpink;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin-left: 28%;
+    width: 600px;
+    padding: 10px;
+
+}
+.client-area{
+    text-align: center;
+}
+.gray{
+    color: gray;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
